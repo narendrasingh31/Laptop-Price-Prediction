@@ -3,7 +3,7 @@
 
 ## Overview:
 In this notebook, we are going to predict the purchasing amount of customize laptop, using various features such as Company, Screen Resolution, CPU, RAM, GPU, Operating System.
-All the Data Science steps which required for the best predictions has been followed below from data collection to Mmdel deployment.
+All the Data Science steps which required for the best predictions has been followed below from data collection to Model deployment.
 
 ## Purchase amount:
 ![image](https://user-images.githubusercontent.com/104161233/176252114-6bb78fd2-2813-48b3-8bb1-6a3fac57a08b.png)
